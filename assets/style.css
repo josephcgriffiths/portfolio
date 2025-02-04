@@ -1,0 +1,43 @@
+/* custom.css */
+body {
+    background-color: #f8f9fa; /* Light grey background */
+    color: #343a40; /* Dark grey text */
+}
+
+h1, h2 {
+    color: #007bff; /* Bootstrap primary blue */
+}
+
+.navbar {
+    background-color: #007bff !important; /* Bootstrap primary blue */
+}
+
+.navbar-brand, .nav-link {
+    color: #ffffff !important; /* White text for navbar */
+}
+
+.navbar-brand:hover, .nav-link:hover {
+    color: #d1ecf1 !important; /* Light blue text for navbar on hover */
+}
+
+.lead {
+    color: #6c757d; /* Bootstrap secondary grey */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Bootstrap primary blue */
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker blue for hover */
+    border-color: #0056b3;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+.card-title {
+    color: #007bff; /* Bootstrap primary blue */
+}
